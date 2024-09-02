@@ -1,7 +1,7 @@
 # SA Online Mart
 
 ## Project Overview
-SA Online Mart is an e-commerce platform promoting local South African products, helping artisans and small businesses to reach a wider audience.
+SA Online Mart is an e-commerce platform  which promotes local South African products, helping small businesses to reach more customers.
 
 ## Features
 - Browse and search products
@@ -10,8 +10,8 @@ SA Online Mart is an e-commerce platform promoting local South African products,
 - Admin panel for managing products
 
 ## Technologies used
--Backend: C#, ASP.NET Core
--Frontend: HTML, CSS, JavaScript (Bootstrap)
--Database: SQL Server (with Entity Framework Core)
--Version Control: Git and GitHub
+- Backend: C#, ASP.NET Core
+- Frontend: HTML, CSS, JavaScript (Bootstrap)
+- Database: SQL Server 
+- Version Control: Git and GitHub
 
